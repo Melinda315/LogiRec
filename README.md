@@ -20,8 +20,6 @@ We provide one dataset, ciao.
 
 ```item_tag_matrix.npz``` items attributes matrix. 
 
-```tag_map.json``` tag idx to tag name mapping.
-
 ```train.pkl``` train set.
 
 ```test.pkl``` test set.
